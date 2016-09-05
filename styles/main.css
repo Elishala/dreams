@@ -50,25 +50,25 @@ nav ul a {
   height: 1999px;
   position: relative;
   z-index: 1;
-  text-align: center;
 }
 
 #hero h1 {
   color: white;
-  text-align: center;
   font-size: 40px;
   letter-spacing: 3px;
-  margin-top: 200px;
+  margin-top: -145px;
+  margin-left: 321px;
 }
 
 #hero .middle-img {
   border-radius: 50%;
-    height: 100px;
-    width: 147px;
+    height: 200px;
+    width: 240px;
     border: 1px gray solid;
+    margin: 40px;
 }
 
-.today {
+h2 .today {
   color: white;
   font-size: 24px;
   text-align: center;
