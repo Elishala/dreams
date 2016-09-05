@@ -51,7 +51,6 @@ nav ul a {
   position: relative;
   z-index: 1;
   text-align: center;
-
 }
 
 #hero h1 {
@@ -60,6 +59,13 @@ nav ul a {
   font-size: 40px;
   letter-spacing: 3px;
   margin-top: 200px;
+}
+
+#hero .middle-img {
+  border-radius: 50%;
+    height: 100px;
+    width: 147px;
+    border: 1px gray solid;
 }
 
 .today {
